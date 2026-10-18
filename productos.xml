@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="productos.xsl"?>
+<tienda>
+    <producto>
+        <nombre>Azúcar</nombre>
+        <tipo>bolsa/kg</tipo>
+        <peso>1,2 kg</peso>
+        <precio>23.00</precio>
+        <marca>Zulka</marca>
+    </producto>
+    <producto>
+        <nombre>Arroz Súper Extra</nombre>
+        <tipo>bolsa/kg</tipo>
+        <peso>1,0 kg</peso>
+        <precio>28.50</precio>
+        <marca>Verde Valle</marca>
+    </producto>
+    <producto>
+        <nombre>Frijol Negro</nombre>
+        <tipo>bolsa/kg</tipo>
+        <peso>1,0 kg</peso>
+        <precio>34.00</precio>
+        <marca>Isadora</marca>
+    </producto>
+    <producto>
+        <nombre>Aceite Comestible</nombre>
+        <tipo>botella</tipo>
+        <peso>850 ml</peso>
+        <precio>42.00</precio>
+        <marca>Nutrioli</marca>
+    </producto>
+    <producto>
+        <nombre>Leche Entera</nombre>
+        <tipo>tetrapack</tipo>
+        <peso>1,0 L</peso>
+        <precio>27.00</precio>
+        <marca>Lala</marca>
+    </producto>
+    <producto>
+        <nombre>Harina de Trigo</nombre>
+        <tipo>bolsa/kg</tipo>
+        <peso>1,0 kg</peso>
+        <precio>19.50</precio>
+        <marca>San Blas</marca>
+    </producto>
+    <producto>
+        <nombre>Café Soluble</nombre>
+        <tipo>frasco</tipo>
+        <peso>200 g</peso>
+        <precio>98.00</precio>
+        <marca>Nescafé Classic</marca>
+    </producto>
+    <producto>
+        <nombre>Atún en Agua</nombre>
+        <tipo>lata</tipo>
+        <peso>140 g</peso>
+        <precio>18.50</precio>
+        <marca>Dolores</marca>
+    </producto>
+    <producto>
+        <nombre>Pasta Espagueti</nombre>
+        <tipo>paquete</tipo>
+        <peso>200 g</peso>
+        <precio>11.00</precio>
+        <marca>La Moderna</marca>
+    </producto>
+    <producto>
+        <nombre>Salsa de Tomate</nombre>
+        <tipo>tetrapack</tipo>
+        <peso>210 g</peso>
+        <precio>9.50</precio>
+        <marca>Del Fuerte</marca>
+    </producto>
+    <producto>
+        <nombre>Avena en Hojuelas</nombre>
+        <tipo>bolsa</tipo>
+        <peso>400 g</peso>
+        <precio>21.00</precio>
+        <marca>Quaker</marca>
+    </producto>
+    <producto>
+        <nombre>Galletas Marías</nombre>
+        <tipo>rollos/paquete</tipo>
+        <peso>510 g</peso>
+        <precio>32.00</precio>
+        <marca>Gamesa</marca>
+    </producto>
+    <producto>
+        <nombre>Mayonesa</nombre>
+        <tipo>frasco</tipo>
+        <peso>390 g</peso>
+        <precio>48.00</precio>
+        <marca>McCormick</marca>
+    </producto>
+    <producto>
+        <nombre>Cereal de Maíz</nombre>
+        <peso>480 g</peso>
+        <precio>56.00</precio>
+        <marca>Corn Flakes</marca>
+    </producto>
+    <producto>
+        <nombre>Lenteja</nombre>
+        <tipo>bolsa</tipo>
+        <peso>500 g</peso>
+        <precio>22.50</precio>
+        <marca>Schettino</marca>
+    </producto>
+    <producto>
+        <nombre>Sal de Mesa</nombre>
+        <tipo>bolsa/kg</tipo>
+        <peso>1,0 kg</peso>
+        <precio>13.50</precio>
+        <marca>La Fina</marca>
+    </producto>
+    <producto>
+        <nombre>Chocolate en Polvo</nombre>
+        <tipo>bolsa</tipo>
+        <peso>357 g</peso>
+        <precio>38.00</precio>
+        <marca>Cal-C-Tose</marca>
+    </producto>
+    <producto>
+        <nombre>Mermelada de Fresa</nombre>
+        <tipo>frasco</tipo>
+        <peso>450 g</peso>
+        <precio>44.00</precio>
+        <marca>McCormick</marca>
+    </producto>
+    <producto>
+        <nombre>Vinagre Blanco</nombre>
+        <tipo>botella</tipo>
+        <peso>1,0 L</peso>
+        <precio>16.00</precio>
+        <marca>Clemente Jacques</marca>
+    </producto>
+    <producto>
+        <nombre>Puré de Papas</nombre>
+        <tipo>caja</tipo>
+        <peso>160 g</peso>
+        <precio>25.00</precio>
+        <marca>Verde Valle</marca>
+    </producto>
+</tienda>
